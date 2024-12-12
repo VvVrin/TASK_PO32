@@ -1,0 +1,4 @@
+<?php $people = ['sd' => 23, 'stt' => 3, 'svd' => 233]
+  asort($people);
+  print_r($people);
+?>
